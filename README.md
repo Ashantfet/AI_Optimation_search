@@ -55,7 +55,7 @@ All experiments were run for 5 trials. A timeout `τ = 10 minutes` was used to t
   <img src="FrozenLake/gifs/ida_frozen_lake.gif" width="45%" /> </p>
 
 ![Branch and Bound](Frozen_lake/gifs/bnb_frozen_lake.gif)
-![IDA*](Frozen_lake/gifs/ida_frozenlake.gif)
+![IDA*](Frozen_lake/gifs/ida_frozen_lake.gif)
 
 **Observations**:
 - **BnB**: Slightly higher average time due to outlier run, memory-intensive.
