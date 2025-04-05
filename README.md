@@ -52,9 +52,16 @@ All experiments were run for 5 trials. A timeout `τ = 10 minutes` was used to t
 
 ### ✅ Branch and Bound vs IDA\* (on Frozen Lake)
 
+![Hill Climbing Demo](TSP/gifs/hc_tsp.gif)
+<p align="center"><em>hc_tsp.gif</em></p>
+
+![Simulated Annealing Demo](TSP/gifs/sa_tsp.gif)
+<p align="center"><em>sa_tsp.gif</em></p>
 
 ![Branch and Bound](Frozen_lake/gifs/bnb_frozen_lake.gif)
+<p align="center"><em>bnb_frozenlake.gif</em></p>
 ![IDA*](Frozen_lake/gifs/ida_frozen_lake.gif)
+<p align="center"><em>ida_frozenlake.gif</em></p>
 
 **Observations**:
 - **BnB**: Slightly higher average time due to outlier run, memory-intensive.
@@ -64,7 +71,9 @@ All experiments were run for 5 trials. A timeout `τ = 10 minutes` was used to t
 
 ### 🛍 Hill Climbing vs Simulated Annealing (on TSP)
 ![Simulated Annealing](TSP/gym_TSP/gifs/simulated_annealing_tsp.gif)
+<p align="center"><em>sa_tsp.gif</em></p>
 ![Hill Climbing](TSP/gym_TSP/gifs/hill_climbing_tsp.gif)
+<p align="center"><em>hc_tsp.gif</em></p>
 
 **Observations**:
 - **Hill Climbing**: Fast but often stuck in local minima. Restarts cost time.
