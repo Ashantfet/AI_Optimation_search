@@ -63,8 +63,8 @@ All experiments were run for 5 trials. A timeout `τ = 10 minutes` was used to t
 ---
 
 ### 🛍 Hill Climbing vs Simulated Annealing (on TSP)
-![Simulated Annealing](TSP/gifs/sa_tsp.gif)
-![Hill Climbing](TSP/gifs/hc_tsp.gif)
+![Simulated Annealing](TSP/gym_TSP/gifs/simulated_annealing_tsp.gif)
+![Hill Climbing](TSP/gym_TSP/gifs/hill_climbing_tsp.gif)
 
 **Observations**:
 - **Hill Climbing**: Fast but often stuck in local minima. Restarts cost time.
