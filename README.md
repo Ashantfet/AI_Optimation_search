@@ -125,8 +125,6 @@ AI_Optimation_search/
 │       ├── hc_tsp.gif
 │       └── sa_tsp.gif
 │
-├── results/
-│   └── metrics_plots.ipynb
 ├── requirements.txt
 └── README.md
 ```
@@ -135,11 +133,8 @@ AI_Optimation_search/
 ## 📽️ Presentation
 
 - [Google Slides Link](https://docs.google.com/presentation/d/1Rszn9Uo2inHFdBKsF7BqrDYqOp3VNvXUqVCMbS4-nTs/edit?usp=sharing)
-- [📄 Download PDF](./Search and Optimization .pdf)
 
-## 🔗 GitHub Repository
 
-[👉 Click to Visit Repository](https://github.com/Ashantfet/AI_Optimation_search)
 
 ---
 
