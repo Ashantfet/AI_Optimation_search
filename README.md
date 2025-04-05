@@ -52,12 +52,6 @@ All experiments were run for 5 trials. A timeout `τ = 10 minutes` was used to t
 
 ### ✅ Branch and Bound vs IDA\* (on Frozen Lake)
 
-![Hill Climbing Demo](TSP/gifs/hc_tsp.gif)
-<p align="center"><em>hc_tsp.gif</em></p>
-
-![Simulated Annealing Demo](TSP/gifs/sa_tsp.gif)
-<p align="center"><em>sa_tsp.gif</em></p>
-
 ![Branch and Bound](Frozen_lake/gifs/bnb_frozen_lake.gif)
 <p align="center"><em>bnb_frozenlake.gif</em></p>
 ![IDA*](Frozen_lake/gifs/ida_frozen_lake.gif)
