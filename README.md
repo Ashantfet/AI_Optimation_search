@@ -51,6 +51,9 @@ All experiments were run for 5 trials. A timeout `τ = 10 minutes` was used to t
 ## 🔎 Results
 
 ### ✅ Branch and Bound vs IDA\* (on Frozen Lake)
+<p float="left"> <img src="FrozenLake/gifs/bnb_frozen_lake.gif" width="45%" /> 
+  <img src="FrozenLake/gifs/ida_frozen_lake.gif" width="45%" /> </p>
+
 ![Branch and Bound](FrozenLake/gifs/bnb_frozenlake.gif)
 ![IDA*](FrozenLake/gifs/ida_frozenlake.gif)
 
