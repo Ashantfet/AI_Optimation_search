@@ -135,7 +135,7 @@ AI_Optimation_search/
 ## 📽️ Presentation
 
 - [Google Slides Link](https://docs.google.com/presentation/d/1Rszn9Uo2inHFdBKsF7BqrDYqOp3VNvXUqVCMbS4-nTs/edit?usp=sharing)
-- [📄 Download PDF](./presentation.pdf)
+- [📄 Download PDF](./Search and Optimization .pdf)
 
 ## 🔗 GitHub Repository
 
