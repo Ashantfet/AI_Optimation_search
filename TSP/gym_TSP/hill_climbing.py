@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import imageio
 
 class HillClimbingTSP:
-    def __init__(self, distance_matrix, num_restarts=20 ,max_iterations=1000):
+    def __init__(self, distance_matrix, num_restarts=10 ,max_iterations=1000):
         self.distance_matrix = distance_matrix
         self.num_cities = len(distance_matrix)
         self.num_restarts = num_restarts

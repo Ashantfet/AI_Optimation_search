@@ -8,7 +8,7 @@ scripts = ["hill_climbing.py", "simulated_annealing.py"]
 
 csv_filename = "execution_results.csv"
 log_filename = "execution_log.txt"
-num_runs = 1
+num_runs = 5
 
 env = os.environ.copy()
 env["PYTHONIOENCODING"] = "utf-8"
