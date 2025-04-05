@@ -4,7 +4,21 @@ Running test 1/5...
 === Output of bnb_frozen_lake.py ===
 Best Path: [0, 1, 2, 6, 10, 14, 15]
 Best Cost: 6
-Execution Time: 0.000642 seconds
+Execution Time: 0.000562 seconds
+=============================
+
+=== Output of ida_frozen_lake.py ===
+Best Path: [0, 4, 8, 9, 13, 14, 15]
+Best Cost: 6
+Execution Time: 0.000278 seconds
+=============================
+
+Running test 2/5...
+
+=== Output of bnb_frozen_lake.py ===
+Best Path: [0, 1, 2, 6, 10, 14, 15]
+Best Cost: 6
+Execution Time: 0.001103 seconds
 =============================
 
 === Output of ida_frozen_lake.py ===
@@ -13,32 +27,18 @@ Best Cost: 6
 Execution Time: 0.000281 seconds
 =============================
 
-Running test 2/5...
-
-=== Output of bnb_frozen_lake.py ===
-Best Path: [0, 1, 2, 6, 10, 14, 15]
-Best Cost: 6
-Execution Time: 0.000658 seconds
-=============================
-
-=== Output of ida_frozen_lake.py ===
-Best Path: [0, 4, 8, 9, 13, 14, 15]
-Best Cost: 6
-Execution Time: 0.000286 seconds
-=============================
-
 Running test 3/5...
 
 === Output of bnb_frozen_lake.py ===
 Best Path: [0, 1, 2, 6, 10, 14, 15]
 Best Cost: 6
-Execution Time: 0.000485 seconds
+Execution Time: 0.000479 seconds
 =============================
 
 === Output of ida_frozen_lake.py ===
 Best Path: [0, 4, 8, 9, 13, 14, 15]
 Best Cost: 6
-Execution Time: 0.000283 seconds
+Execution Time: 0.000288 seconds
 =============================
 
 Running test 4/5...
@@ -46,13 +46,13 @@ Running test 4/5...
 === Output of bnb_frozen_lake.py ===
 Best Path: [0, 1, 2, 6, 10, 14, 15]
 Best Cost: 6
-Execution Time: 0.000482 seconds
+Execution Time: 0.000532 seconds
 =============================
 
 === Output of ida_frozen_lake.py ===
 Best Path: [0, 4, 8, 9, 13, 14, 15]
 Best Cost: 6
-Execution Time: 0.000279 seconds
+Execution Time: 0.000318 seconds
 =============================
 
 Running test 5/5...
@@ -60,11 +60,11 @@ Running test 5/5...
 === Output of bnb_frozen_lake.py ===
 Best Path: [0, 1, 2, 6, 10, 14, 15]
 Best Cost: 6
-Execution Time: 0.000465 seconds
+Execution Time: 0.000513 seconds
 =============================
 
 === Output of ida_frozen_lake.py ===
 Best Path: [0, 4, 8, 9, 13, 14, 15]
 Best Cost: 6
-Execution Time: 0.000256 seconds
+Execution Time: 0.000254 seconds
 =============================
